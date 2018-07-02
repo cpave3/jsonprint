@@ -5,5 +5,13 @@
   "main": "index.js",
   "repository": "https://cpave3@github.com/cpave3/jsonprint",
   "author": "Cameron Pavey <cpave3@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "keywords": [
+    "console",
+    "data",
+    "json",
+    "log",
+    "prettyprint",
+    "terminal"
+  ]
 }
