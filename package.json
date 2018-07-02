@@ -1,0 +1,9 @@
+{
+  "name": "jsonprint",
+  "version": "1.0.0",
+  "description": "A small, simple module to output properly formatted pretty JSON with syntax highlighting to your terminal",
+  "main": "index.js",
+  "repository": "https://cpave3@github.com/cpave3/jsonprint",
+  "author": "Cameron Pavey <cpave3@gmail.com>",
+  "license": "MIT"
+}
